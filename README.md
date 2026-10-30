@@ -6,7 +6,7 @@ a11y_statement: "https://www.cm-penedono.pt/acessibilidade/declaracao-de-acessib
 a11y_statement_date: "13/10/2026" # Data da declaração de acessibilidade
 owner: "Município de Penedono"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+validity: "30/10/2026 a 30/10/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
@@ -30,7 +30,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório {{ page.website }}</a></li>
+    <li><a href="30102026_report_report.html">(30/10/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
